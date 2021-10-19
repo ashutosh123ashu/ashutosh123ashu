@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ML/Data Science projects
-- 📫 How to reach me ashujhao0994@gmail.com
+- 📫 How to reach me ashujha0994@gmail.com
 
 <!---
 ashutosh123ashu/ashutosh123ashu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
