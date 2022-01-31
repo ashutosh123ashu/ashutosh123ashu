@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashutosh123ashu
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ML/Data Science projects
+- 👀 I’m interested in UI/UX Design and Web Development
+- 🌱 I’m currently learning React Js development
+- 💞️ I’m looking to collaborate on Web application projects
 - 📫 How to reach me ashujha0994@gmail.com
 
 <!---
