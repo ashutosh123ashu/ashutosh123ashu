@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashutosh123ashu
-- 👀 I’m interested in UI/UX Design and Web Development
-- 🌱 I’m currently learning React Js development
-- 💞️ I’m looking to collaborate on Web application projects
+- 👀 I’m interested in Automation.
+- 🌱 I’m currently learning terraform.
+- 💞️ I’m looking to collaborate on CI/CD application projects
 - 📫 How to reach me ashujha0994@gmail.com
 
 <!---
